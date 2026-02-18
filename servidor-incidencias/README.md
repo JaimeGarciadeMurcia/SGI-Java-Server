@@ -3,7 +3,7 @@
 **GitHub** https://github.com/JaimeGarciadeMurcia/SGI-Java-Server
 **Versión:** 1.0
 ## 1. Descripción del Proyecto
-Esta es una aplicación web backend desarrollada en Java para la e
+Esta es una aplicación web backend desarrollada en Java para la 
 gestión de errores técnicos. Permite a los usuarios reportar incidencias y 
 almacenarlas en una base de datos centralizada.
 
